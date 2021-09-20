@@ -1,4 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=%E5%81%87&vCenter=%E5%81%87&lines=%E3%82%9B%E5%87%89%E7%AC%99%E5%A2%A8%E6%9F%93%E3%81%85.%E3%81%AEBlog%3Amoran.ml)](https://git.io/typing-svg)
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liangshengmoran&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
 
-<div style="text-align:center;">
-<iframe width="400" height="300" frameborder="0" src="https://cdn.abowman.com/widgets/hamster/hamster.html?up_bgColor=ffffff&up_bodyColor=e6debe&up_earColor=d4c898&up_snoutColor=f7f4e9&up_eyeColor=000000&up_feetColor=d4c898&up_tailColor=e6debe&up_waterColor=c2dfff&up_foodColor=cba920&up_wheelColor=ffffff&up_wheelOuterColor=000000&up_wheelCenterColor=ffc0cb&up_wheelSpokeColor=dedede"></iframe></div>
+你好！(。・∀・)ノ这里是我的GitHub个人主页。
+
+欢迎访问我的[博客](https://moran.ml/)
+
+* 一只某校在读学生
+* 只会搭火柴盒的Minecraft玩家 <img src="https://raw.githubusercontent.com/liangshengmoran/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
+* 初级动漫爱好者
+* 干啥啥不行，摸鱼第一名🐟
+
+
+只会写简单的代码和一些好玩的小东西😂
+
+经常整的活
+
+![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
+
+![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=liangshengmoran.liangshengmoran.readme)
