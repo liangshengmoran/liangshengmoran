@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=liangshengmoran&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
 
-你好！(。・∀・)ノ这里是我的个人主页。
+你好！(。・∀・)ノ这里是我的Github个人主页。
 
 * 一只某校在读学生
 * 只会搭火柴盒的Minecraft玩家 
@@ -15,7 +15,7 @@
 * 干啥啥不行，摸鱼第一名🐟
 
 
-只会写简单的代码和一些好玩的小东西😂
+只会写简单的代码和一些好玩的小东西😅
 
 ![](https://img.shields.io/badge/-HTML5-d85b25?style=flat-square&logo=HTML5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS3-255bd8?style=flat-square&logo=css3&logoColor=fff)
