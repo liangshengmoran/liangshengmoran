@@ -1,4 +1,4 @@
-<div align="center" class="zhuye"><img order-radius="100px" style="border-radius: 20px;" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"></div>
+<div align="center"><img order-radius="100px" border-radius="20px;" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"></div>
 <a href="#">
 <div align="center">
 <a href="https://moran.ml/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></div></a></a>&emsp;
