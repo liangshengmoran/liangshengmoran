@@ -3,7 +3,7 @@
 <a href="#">
 
 <div align="center">
-<a href="https://blog.lsmr.nl/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></div></a></a>&emsp;
+<a href="https://lsmr.nl/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></div></a></a>&emsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake.svg" />
